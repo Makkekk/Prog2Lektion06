@@ -3,7 +3,7 @@ package Opgave01;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 
-import static Opgave01.Opgave01Main.factorial;
+import static Opgave01.Opgave01.factorial;
 import static org.junit.jupiter.api.Assertions.*;
 
 public class Opgave01MainTest {
